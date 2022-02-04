@@ -34,3 +34,25 @@ var apple = 5;
 var mainPrice = moneyHave / apple;
 
 console.log(mainPrice);
+
+
+
+// special edition
+
+var firstNumber = 0.1;
+var secondNumber = 0.2;
+var total = firstNumber + secondNumber;
+total = total.toFixed(1);
+total = parseFloat(total);
+console.log(total);
+
+
+// modulus
+
+var mango = 73;
+var hungryPerson = 3;
+var remining = mango % hungryPerson;
+console.log(remining);
+
+
+
