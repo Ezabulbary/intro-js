@@ -33,7 +33,7 @@ var egg = "30.32";
 var milk = "50.44";
 
 var eggPrice = parseFloat(egg);
-ver milkPrice = parseInt(milk);
+var milkPrice = parseInt(milk);
 
 // console.log(eggPrice);
 console.log(milkPrice)
